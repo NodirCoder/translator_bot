@@ -1,1 +1,7 @@
 pyTelegramBotAPI
+deep-translator
+gTTS
+beautifulsoup4
+requests
+lxml
+wikipedia
