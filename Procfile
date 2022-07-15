@@ -1,1 +1,1 @@
-web: python bot.py
+web: python translator_new.py
