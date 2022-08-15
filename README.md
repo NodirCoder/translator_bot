@@ -1,13 +1,10 @@
 # Python-Telegram-Bot
 
-This example starts a Telegram bot using [python-telegram-bot](https://www.python-telegram-bot.org/) library.
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Frailwayapp%2Fexamples%2Ftree%2Fmaster%2Fexamples%2Fpython-telegram-bot&envs=TOKEN&TOKENDesc=The+Telegram+Bot%27s+Token+%28Generate+a+token+from+%40BotFather+if+you+don%27t+have+one%21%29)
-
 ## ✨ Features
 
-- Python
-- Python Telegram Bot
+- PyTelegramBotAPI
+- SQLite database
+- Wikipedia API
 
 ## 💁‍♀️ How to use
 
