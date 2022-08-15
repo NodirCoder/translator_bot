@@ -436,7 +436,7 @@ def send_to_everyone(call):
             bad += 1
             continue
 
-    bot.send_message(call.from_user.id, f"Sent: {good}\nDon't sent: {bad}")
+    bot.send_message(call.from_user.id, f"Sent: {good}\nNot sent: {bad}")
 
 
 @bot.message_handler(content_types=['text'])
