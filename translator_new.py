@@ -27,7 +27,7 @@ level=logging.DEBUG)
 TOKEN = '1821952294:AAERWo295ydLbstgWYxch4PJr9kJfm7VkBY' # это токен моего бота
 bot = telebot.TeleBot(TOKEN, parse_mode='Markdown')
 
-admin_id = [1785108916, 5347145575]  # admin's id
+admin_id = [1785108916]  # admin's id
 down_s = 'Перевожу🔄'
 post_text = []
 post_buttons = []
