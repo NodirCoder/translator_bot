@@ -491,7 +491,7 @@ def parser(message):
                 m2 = bot.reply_to(message, f"`{tr_text}`", reply_markup=keyboard)
                 bot.delete_message(message.from_user.id, m.message_id)
             except Exception as e:
-                print('error!', e)
+                print('error!', e.with_traceback())
                 bot.send_message(data.u_id, '''
 *⚠️что-то пошло не так.
 Напишите в отзывы что произошло⚠️*''')
