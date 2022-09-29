@@ -25,7 +25,7 @@ format='%(asctime)s %(levelname)s: %(message)s',
 filename='info.log', filemode='w',
 level=logging.DEBUG)
 
-TOKEN = '5672466838:AAGGRgm4H2CWlK9hCCqOPqO2ZGXeooyCnCY' # это токен моего бота
+TOKEN = '1821952294:AAERWo295ydLbstgWYxch4PJr9kJfm7VkBY' # это токен моего бота
 bot = telebot.TeleBot(TOKEN, parse_mode='Markdown')
 
 admin_id = [1785108916, 5347145575]  # admin's id
